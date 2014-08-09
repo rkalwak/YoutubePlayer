@@ -1,0 +1,59 @@
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\YTPlayer.exe
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\YTPlayer.pdb
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.AccessControl.DLL
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Analytics.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Apps.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Blogger.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Calendar.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Client.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Contacts.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.ContentForShopping.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Documents.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Extensions.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Photos.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.Spreadsheets.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.WebmasterTools.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Google.GData.YouTube.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Newtonsoft.Json.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.csproj.ResolveComReference.cache
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Form1.resources
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Properties.Resources.resources
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.exe
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.pdb
+E:\dane\studia\NETProjekty\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Form2.resources
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.csproj.ResolveComReference.cache
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.exe
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.pdb
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\YTPlayer.exe
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\YTPlayer.pdb
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.AccessControl.DLL
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Analytics.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Apps.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Blogger.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Calendar.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Client.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Contacts.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.ContentForShopping.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Documents.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Extensions.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Photos.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.Spreadsheets.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.WebmasterTools.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Google.GData.YouTube.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Newtonsoft.Json.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+k:\NET Apps\YTPlayer\YTPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.csprojResolveAssemblyReference.cache
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Form1.resources
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Form2.resources
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.Properties.Resources.resources
+k:\NET Apps\YTPlayer\YTPlayer\obj\x86\Debug\YTPlayer.csproj.GenerateResource.Cache
